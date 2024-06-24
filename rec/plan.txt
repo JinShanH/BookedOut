@@ -1,0 +1,10 @@
+Required data:
+database
+- isbn, title, author, rating, publisher, genre
+
+
+algorithm: kNN
+based on user's read books, get recommendations
+
+if user has no books in collection, randomly pick 5 books with user rating > 3
+if user has read books in collection, get 5 nearest neighbours for each book. Then randomly pick 5 unique books from the recommended set. 

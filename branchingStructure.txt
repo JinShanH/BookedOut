@@ -1,0 +1,17 @@
+Branch structure
+
+Main 
+-> sprint1
+    --> story1
+    --> story2
+        .
+        .
+        .
+    --> story x
+
+-> sprint2
+
+
+On each sprint, create branches off the sprint branch when developing the stories
+
+use main for project demo, make all changes to sprint branches before merging to main when done. 

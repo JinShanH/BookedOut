@@ -1,0 +1,23 @@
+.page-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.component-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: blue; */
+}
+
+/* .component-container * {
+    margin-bottom: 20px;
+} */
+
+/* .component-container a {
+    margin-top: 20px;
+} */
